@@ -5,5 +5,5 @@
 
 <p>此外，添加了在这两个建筑中工作的"艺人"，由农民或奴隶升级而来，这种人口也可能升级为市民。
 
-<p>Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3625395047
+<p>Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3625402469
 <p>GitHub: https://github.com/akingno/eu5_entertainment
