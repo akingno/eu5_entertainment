@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+service: "服务"
+service_desc: "以表演、陪侍等直接消遣为主的基础娱乐和风月服务，在劳工与士兵中需求尤为旺盛。"
+highservice: "奢靡服务"
+highservice_desc: "面向上层阶级的高消费娱乐与陪侍服务，强调私密性、奢华体验与文化包装，依赖富裕且高度发展的城市环境。"
+entertainment_venue: "风月场所"
+entertainment_venue_desc: "面向劳工与士兵的基础娱乐场所，提供直接而廉价的消遣与陪侍服务，常见于乡村或低度发展的地区。"
+high_entertainment_venue: "高级娱乐场所"
+high_entertainment_venue_desc: "设于城镇与城市中的娱乐与消遣场所，为表演者与陪侍者提供谋生机会。这类建筑依赖稳定而高端的消费需求，通常出现在发展程度较高的地区，提供多样化的奢靡娱乐服务。"
+entertainers: "艺人"
+entertainers_desc: "以表演、歌舞与陪侍为生的城市职业群体。他们游走于市井与上层之间，社会地位不稳，既可能因才艺受到赏识，也常因生计所迫而陷入灰色行当。"
+entertainment_venue_service_maintenance: "服务业"
+high_entertainment_venue_highservice_maintenance: "高级服务业"

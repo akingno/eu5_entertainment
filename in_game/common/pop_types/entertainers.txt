@@ -1,0 +1,35 @@
+﻿entertainers = {
+	color = pop_entertainers
+
+	# Map editor spawn weight
+	editor = 0.02
+
+	# 改宗速度非常快
+	assimilation_conversion_factor = 0.2
+
+	# Food consumption per pop unit
+	pop_food_consumption = 2.0
+
+	# Urban look contribution
+	city_graphics = 0.3
+
+	tribes_estate = {}
+
+	# Mobility
+	promotion_factor = 0.2
+	migration_factor = 0.1
+
+	upper = no
+	has_cap = yes
+	grow = yes
+
+	# Promotion paths
+	promote_to = burghers
+
+}
+INJECT:peasants = {
+	promote_to = entertainers
+}
+INJECT:slaves = {
+	promote_to = entertainers
+}

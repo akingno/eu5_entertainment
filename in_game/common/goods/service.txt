@@ -1,0 +1,47 @@
+﻿highservice = {
+	category = produced
+	color = goods_highservice
+
+	default_market_price = 10
+	transport_cost = 50
+
+	demand_add = {
+		nobles   = 0.03
+		burghers = 0.05
+	}
+
+	demand_multiply = {
+		upper  = 5
+		nobles = 2
+		slaves = 0
+	}
+
+	wealth_impact_threshold = {
+		all = 1.2
+	}
+
+}
+service = {
+	category = produced
+	color = goods_service
+
+	default_market_price = 2
+	transport_cost = 50
+
+	demand_add = {
+		soldiers = 0.01
+		laborers = 0.01
+		entertainers = 0.001
+		peasants = 0.002
+	}
+
+	demand_multiply = {
+		nobles = 2
+		slaves = 0
+	}
+
+	wealth_impact_threshold = {
+		all = 1.0
+	}
+
+}

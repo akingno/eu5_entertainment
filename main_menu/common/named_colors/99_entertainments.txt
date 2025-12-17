@@ -1,0 +1,7 @@
+colors = {
+	
+	goods_service = 					hsv360 	{	350 	25	75	}
+	goods_highservice = 					hsv360 	{	344 	45	76	}
+	pop_entertainers =				hsv360 	{	350	25	100	} 
+	
+} 

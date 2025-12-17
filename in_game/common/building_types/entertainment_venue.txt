@@ -1,0 +1,54 @@
+﻿high_entertainment_venue = {
+	is_foreign = no
+	pop_type = entertainers
+	max_levels = manufactory_max_level
+
+	category = consumer_goods_category
+	employment_size = guild_employment
+
+	town = yes
+	city = yes
+
+	build_time = guild_build_time
+
+	unique_production_methods = {
+		high_entertainment_venue_highservice_maintenance = {
+			produced = highservice
+			output = 0.08
+
+			category = guild_input
+			debug_max_profit = 1.0
+		}
+	}
+	modifier = {
+		local_migration_attraction = 0.2
+	}
+}
+entertainment_venue = {
+	is_foreign = no
+	pop_type = entertainers
+	max_levels = manufactory_max_level
+
+	category = consumer_goods_category
+	employment_size = guild_employment
+
+	rural_settlement = yes
+	town = yes
+	city = yes
+
+	build_time = rural_build_time
+
+	unique_production_methods = {
+		entertainment_venue_service_maintenance = {
+			produced = service
+			output = 0.12
+
+			category = guild_input
+			debug_max_profit = 1.0
+		}
+	}
+	modifier = {
+		local_migration_attraction = 0.05
+		local_population_growth = 0.01
+	}
+}
