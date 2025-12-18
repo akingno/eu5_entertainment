@@ -13,7 +13,8 @@
 	# Urban look contribution
 	city_graphics = 0.3
 
-	tribes_estate = {}
+	tribes_estate = { is_gaelic_clans = yes }
+	peasants_estate = {}
 
 	# Mobility
 	promotion_factor = 0.2

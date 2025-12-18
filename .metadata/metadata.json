@@ -1,0 +1,11 @@
+﻿{
+	"name":	"服务和娱乐场所",
+	"id":	"akingno_entertainment",
+	"version":	"0.1",
+	"supported_game_version":	"1.0.*",
+	"short_description":	"添加了两种建筑:\"风月场所\"和仅可以修在城镇和城市的\"高级娱乐场所\"。这两个建筑分别生产\"服务\"和\"奢靡服务\"(请不要试图贸易这两种服务,因为需要的贸易容量非常大)。",
+	"tags":	["Trade and Economics"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}

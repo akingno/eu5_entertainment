@@ -1,0 +1,18 @@
+﻿l_english:
+service: "Services"
+service_desc: "Basic forms of entertainment and companionship focused on direct leisure and pleasure, with particularly strong demand among laborers and soldiers."
+
+highservice: "Luxury Services"
+highservice_desc: "High-cost entertainment and companionship aimed at the upper classes, emphasizing privacy, lavish experiences, and cultural refinement. Such services depend on wealthy and highly developed urban environments."
+
+entertainment_venue: "Pleasure House"
+entertainment_venue_desc: "Basic entertainment venues catering to laborers and soldiers, offering affordable forms of leisure and companionship. They are commonly found in rural areas or less developed regions."
+
+high_entertainment_venue: "Grand Entertainment House"
+high_entertainment_venue_desc: "Entertainment establishments located in towns and cities, providing performers and companions with means of livelihood. These buildings rely on stable, high-end consumer demand and typically appear in highly developed urban centers, offering a wide range of luxurious amusements."
+
+entertainers: "Entertainers"
+entertainers_desc: "An urban occupational group earning their livelihood through performance, music, and companionship. They exist between the streets and the upper strata of society, with unstable social standing, sometimes gaining recognition for their talents while often remaining on the social margins."
+
+entertainment_venue_service_maintenance: "Service Industry"
+high_entertainment_venue_highservice_maintenance: "Luxury Service Industry"
