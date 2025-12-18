@@ -31,8 +31,7 @@ service = {
 	demand_add = {
 		soldiers = 0.01
 		laborers = 0.01
-		entertainers = 0.001
-		peasants = 0.002
+		peasants = 0.001
 	}
 
 	demand_multiply = {

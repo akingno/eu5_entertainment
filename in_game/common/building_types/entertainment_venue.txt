@@ -27,7 +27,7 @@
 entertainment_venue = {
 	is_foreign = no
 	pop_type = entertainers
-	max_levels = manufactory_max_level
+	max_levels = guild_max_level
 
 	category = consumer_goods_category
 	employment_size = guild_employment
@@ -41,7 +41,7 @@ entertainment_venue = {
 	unique_production_methods = {
 		entertainment_venue_service_maintenance = {
 			produced = service
-			output = 0.2
+			output = 0.3
 
 			category = guild_input
 			debug_max_profit = 1.0
@@ -49,6 +49,6 @@ entertainment_venue = {
 	}
 	modifier = {
 		local_migration_attraction = 0.03
-		local_population_growth = 0.003
+		local_population_growth = 0.0003
 	}
 }
