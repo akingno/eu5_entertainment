@@ -21,7 +21,7 @@
 		}
 	}
 	modifier = {
-		local_migration_attraction = 0.2
+		local_migration_attraction = 0.1
 	}
 }
 entertainment_venue = {
@@ -41,14 +41,14 @@ entertainment_venue = {
 	unique_production_methods = {
 		entertainment_venue_service_maintenance = {
 			produced = service
-			output = 0.12
+			output = 0.2
 
 			category = guild_input
 			debug_max_profit = 1.0
 		}
 	}
 	modifier = {
-		local_migration_attraction = 0.05
-		local_population_growth = 0.01
+		local_migration_attraction = 0.03
+		local_population_growth = 0.003
 	}
 }
