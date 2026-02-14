@@ -3,16 +3,15 @@
 	color = goods_highservice
 
 	default_market_price = 10
-	transport_cost = 50
+	transport_cost = 60
 
 	demand_add = {
 		nobles   = 0.03
-		burghers = 0.05
+		burghers = 0.045
 	}
 
 	demand_multiply = {
 		upper  = 5
-		nobles = 2
 		slaves = 0
 	}
 
@@ -26,16 +25,15 @@ service = {
 	color = goods_service
 
 	default_market_price = 2
-	transport_cost = 50
+	transport_cost = 60
 
 	demand_add = {
 		soldiers = 0.01
 		laborers = 0.01
-		peasants = 0.001
+		peasants = 0.0015
 	}
 
 	demand_multiply = {
-		nobles = 2
 		slaves = 0
 	}
 

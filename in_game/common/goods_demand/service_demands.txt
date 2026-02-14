@@ -1,0 +1,23 @@
+﻿
+INJECT:pop_demand = {
+    service = {
+	    value = 1
+    }
+
+    highservice = {
+        value = 1
+        if = {
+            limit = {
+                location.region = {
+                    OR = {
+                        this = region:italy_region
+                    }
+                }
+            }
+            multiply = {
+                value = 1.1
+                desc = "POP_DEMAND_CULTURAL_PREFERENCES"
+            }
+        }
+    }
+}
