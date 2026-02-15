@@ -7,7 +7,7 @@
 
 	demand_add = {
 		nobles   = 0.03
-		burghers = 0.045
+		burghers = 0.008
 	}
 
 	demand_multiply = {
