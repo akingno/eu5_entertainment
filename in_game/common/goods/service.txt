@@ -2,12 +2,12 @@
 	category = produced
 	color = goods_highservice
 
-	default_market_price = 10
+	default_market_price = 8
 	transport_cost = 60
 
 	demand_add = {
-		nobles   = 0.03
-		burghers = 0.008
+		nobles   = 0.006
+		burghers = 0.0016
 	}
 
 	demand_multiply = {
@@ -29,16 +29,12 @@ service = {
 
 	demand_add = {
 		soldiers = 0.01
-		laborers = 0.01
+		laborers = 0.005
 		peasants = 0.0015
 	}
 
 	demand_multiply = {
 		slaves = 0
-	}
-
-	wealth_impact_threshold = {
-		all = 1.0
 	}
 
 }
