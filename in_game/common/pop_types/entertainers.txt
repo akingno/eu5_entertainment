@@ -13,7 +13,10 @@
 	# Urban look contribution
 	city_graphics = 0.3
 
-	peasants_estate = {}
+	# 1.2: add dhimmi and tribes estate
+	dhimmi_estate = { is_dhimmi = yes }
+	tribes_estate = { is_gaelic_clans = yes }
+	burghers_estate = {}
 
 	# Mobility
 	promotion_factor = 0.2
@@ -23,8 +26,11 @@
 	has_cap = yes
 	grow = yes
 
-	# Promotion paths
-	promote_to = burghers
+	# 1.2: add towared market language
+	counts_towards_market_language = yes
+
+	# 1.2: delete promotion path
+	# promote_to = burghers
 
 }
 INJECT:peasants = {

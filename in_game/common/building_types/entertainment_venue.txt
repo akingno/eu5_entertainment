@@ -42,7 +42,7 @@ entertainment_venue = {
 
 	unique_production_methods = {
 		entertainment_venue_service_maintenance = {
-			fine_cloth = 0.01
+			fine_cloth = 0.02
 			produced = service
 			output = 0.15
 
@@ -52,6 +52,6 @@ entertainment_venue = {
 	}
 	modifier = {
 		local_migration_attraction = 0.03
-		local_population_growth = 0.0003
+		local_population_growth = 0.0004
 	}
 }
